@@ -1,0 +1,38 @@
+{
+  "name": "frontend",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4173",
+    "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cors": "^2.8.5",
+    "esbuild": "^0.15.13",
+    "require": "^0.4.4",
+    "sweetalert2": "^11.4.37",
+    "vue": "^3.2.41",
+    "vue-burger-button": "^0.1.2",
+    "vue-burger-menu": "^2.0.5",
+    "vue-message": "^1.4.3",
+    "vue-router": "^4.0.13",
+    "vue-search-select": "^2.9.5",
+    "vue-sessionstorage": "^1.0.0",
+    "vue-toasted": "^1.1.28",
+    "vue3-simple-alert": "^1.0.4"
+  },
+  "devDependencies": {
+    "@rushstack/eslint-patch": "^1.1.4",
+    "@vitejs/plugin-vue": "^3.2.0",
+    "@vue/eslint-config-prettier": "^7.0.0",
+    "eslint": "^8.22.0",
+    "eslint-plugin-vue": "^9.3.0",
+    "node-sass": "^7.0.3",
+    "prettier": "^2.7.1",
+    "sass-loader": "^13.1.0",
+    "vite": "^3.0.9"
+  }
+}

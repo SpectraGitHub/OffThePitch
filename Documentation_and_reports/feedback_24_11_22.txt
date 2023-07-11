@@ -1,0 +1,64 @@
+Ta tak i spesifike tilbakemeldinger fra brukertester
+
+Drar inn justering av sprint lengde i rapporten
+
+Bruk en del snapshots fra forskjellige versjoner, jira osv for å vise konkrete ting i rapporten
+
+Som regel lurt å knytte alle beslutninger til vår egen case i rapporten
+
+Diskutere hvorfor timebruken er forskjellig, de større trekkene (Motivasjon?)
+Skriv hva som har tatt mer tid enn forventet
+
+Gjør nummer ut av hvor lett / Utfordrende hvis vi skulle adapte spillet til andre turneringer/idretter osv
+Skriv om hvordan vi ville gjort det
+
+Legge mer vekt på oppgavebeskrivelse, ha problemområdet før beskrivelse
+
+Læringsmål - Beskrive emner (Matrise)
+
+Stakeholder - Bytt til veileder
+
+2.0 Skriver litt alt for mye, språkform - For muntlig - Mer faglig språk
+
+Metodikk - Få inn prosjektet vårt, diskutere spesifike ting fra VÅRT prosjekt
+
+3.2 Use case har allerede sagt funksjonelle krav - Blir dobbelt
+
+Prøv å teste ut operasjonelle krav - Sjekk om kravene er møtt
+
+Simulere 500 brukere
+
+Hold krav og løsning hver for seg, kapittel 3 skal kun være krav, løsning under implementasjon
+
+Teknologi - Hva er det som gjør at valget er det rette for vårt spesifikke case
+
+MariaDB, kalles ikke res db kalles relasjonsdatabase
+
+5.0 Blir for overfladisk, vis mer hvordan det er oppdelt i vår egen case
+Hvilke moduler i backend, hvilke endpoints kan man aksessere etc
+
+5.1.1 Vis hvordan en del av tingene er implementert i implementasjonskap. (Som nevnt er backenden sånn og sånn, her er hvordan vi koda det)
+
+Knytte forskjellige deler av rapporten sammen (Som vist i figur X.X)
+
+Domenemodellen er ikke en del av løsningen, flytt til kravspekken, databasemodellen er løsning
+
+EER Et lag består av flere spillere, Hva løser mange - mange liga - bruker? Påpek FKs for hvordan man har løst mange til mange relasjoner
+Eksemplifisert (Dette er løst ved at borte_lag_ID peker på XXX)
+
+Kommenter filstruktur, lag figur som pokeman bruke det som er manøvreringskart
+Skriv hvor man har gjort forskjellige ting, hvor har vi automatiserte tester, hvor vi har brukt mye timer eller har mange linjer kode
+
+Er lov å si at man ikke har testa alt like godt, kan nevne at vi ville gjort tester annerledes omvi hadde hatt mer tid
+
+Hva gjorde vi under brukertester? Hvem? Lot folk prøve og observerte...
+
+Drøfte gjennom rapporten, ikke bare 8.0
+
+Nevne her ble det for mange calls eller connections til databasen
+
+9.0 Få inn tabellen, gå over fundamentale ting
+
+Referere til gode kilder når vi har gjort spesifikke valg
+
+
