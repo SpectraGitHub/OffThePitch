@@ -1,5 +1,0 @@
-parameters:
-  key_name: otp_key
-  web_key: web_key
-  otp_net_name: otp_internal_net
-  db_server_name: otp_db_internal
